@@ -1,0 +1,10 @@
+---
+# Default parameters 
+workspace: /root
+
+git_packages:
+  - git
+  - git-svn
+
+git_install_path: "/usr"
+git_version: "2.7.1"
